@@ -5,15 +5,15 @@
 
 ### Instalar node e yarn
 
-	```
-		sudo apt install nodejs
-		sudo npm install --global yarn
-	```
+	
+		sudo apt install
+		
+	
 
 ### Rodar projeto
 
- 	```
+ 	
 		npm run dev
-	```
+	
 #### App publicado
 	https://liste-blog-d8heurjoq-thiagos-projects-e018ccff.vercel.app/

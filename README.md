@@ -15,3 +15,5 @@
  	```
 		npm run dev
 	```
+#### App publicado
+	https://liste-blog-d8heurjoq-thiagos-projects-e018ccff.vercel.app/

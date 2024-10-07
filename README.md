@@ -4,12 +4,14 @@
 
 
 ### Instalar node e yarn
+
 	```
 		sudo apt install nodejs
 		sudo npm install --global yarn
 	```
 
 ### Rodar projeto
-	```
+
+ 	```
 		npm run dev
 	```
